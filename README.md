@@ -6,4 +6,4 @@ Simply run the 'ExpReal.m' in Matlab. It might take a while to finish the runs.
 
 The predictions vs test data can be visulalized by run 'PlotNACA0012.m' directly, then the figure in the paper can be obtained.
 
-If you find this code useful for your research, please cite out paper.
+If you find this code useful for your research, please cite our paper.
