@@ -1,5 +1,4 @@
 # KGEK
-KGEK
 
 This includes the code and data to reproduce the experiments of the lift coefficient prediction of airfoil in our paper entitled "An Efficient Gradient-Enhanced Kriging Modeling Method Assisted by Fast Kriging for High-Dimension Problems"
 
